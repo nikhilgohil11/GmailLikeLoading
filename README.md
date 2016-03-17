@@ -34,7 +34,7 @@ Required framework: QuartzCore.framework
 
 ## How it looks ##
 
-![GmailLikeLoading] (http://nikhilgohil11.com/github/GmailLikeLoading.gif)
+![GmailLikeLoading] (https://github.com/nikhilgohil11/GmailLikeLoading/blob/master/GmailLikeLoading.gif)
 
 ## Lincense ##
 
